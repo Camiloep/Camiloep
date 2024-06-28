@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Camilo
 - 😄 Pronouns: Milosx
 
-## - 🌱 I’m currently learning TypeScript in a Next.js environment and React.js
-## - 🔭 I’m currently working on Nurent
+#### - 🌱 I’m currently learning TypeScript in a Next.js environment and React.js
+#### - 🔭 I’m currently working on Nurent
 
 
 
-# - 📫 How to reach me: camiloep0818@gmail.com
+###### - 📫 How to reach me: camiloep0818@gmail.com
 <!--
 **Camiloep/Camiloep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
