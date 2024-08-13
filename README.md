@@ -14,5 +14,4 @@
 
 
 ## Stats
-
-![Camiloep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camiloep\&rank_icon=github)
+![Camiloep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camiloep\&show_icons=true\&theme=radical\&rank_icon=github)
