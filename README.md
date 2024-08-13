@@ -11,6 +11,6 @@
 ## 💬 Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloep&layout=compact&theme=radical" alt="Lenguajes más usados por Luisa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloep&hide_progress=true" alt="Lenguajes más usados por Camilo" />
 </p>
 
