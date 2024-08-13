@@ -8,10 +8,10 @@
 
 ###### - 📫 How to reach me: camiloep0818@gmail.com
 
-## 💬 Lenguajes
+## 💬 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloep&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloep&size_weight=0.5&count_weight=0.5\&theme=radical)
 
 
-## Stats
+## Stats on Github
 ![Camiloep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camiloep\&show_icons=true\&theme=radical\&rank_icon=github)
