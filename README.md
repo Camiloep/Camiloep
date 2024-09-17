@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Camilo
 
-##### - 🌱 I’m currently learning TypeScript in a Next.js environment and React.js
+##### - 🌱 I’m currently learning TypeScript - Next.js and React.js
 ##### - 🔭 I’m currently working on Nurent
 
 ##### - 📫 How to reach me: camiloep0818@gmail.com
