@@ -23,7 +23,7 @@ Más de dos años construyendo un CRM inmobiliario y un sitio web público en pr
 | --- | --- | --- | --- |
 | [portfolio-web](https://github.com/Camiloep/portfolio-web) | Sitio personal con experiencia, proyectos y contacto; SEO con og:image, sitemap y robots | Next.js 14, TypeScript, Tailwind CSS | [sitio](https://camiloep.vercel.app/) |
 | [GolazoPool](https://github.com/Camiloep/GolazoPool) | Plataforma de pronósticos para el Mundial 2026: ligas privadas, autenticación y tabla en tiempo real | Next.js, TypeScript, Supabase | [demo](https://golazopool.vercel.app/) |
-| Gesticom | Aplicación de escritorio para gestionar ventas, compradores, balances e informes imprimibles; desarrollé la interfaz y gran parte de la lógica | Electron, React, SQLite | código privado |
+| Gesticom | Aplicación de escritorio para comercializadores de ganado: ventas, compradores, balances e informes imprimibles; 22 versiones publicadas; desarrollé la interfaz y gran parte de la lógica | Electron, React, SQLite | código privado |
 | Proyección financiera | Herramienta de planeación económica a 18 meses con acceso protegido | Next.js, TypeScript | [demo](https://proyeccion-financiera-camiloep.vercel.app/) · código privado |
 
 ## Aprendiendo ahora
