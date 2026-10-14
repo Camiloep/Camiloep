@@ -2,7 +2,7 @@
 
 Más de dos años construyendo un CRM inmobiliario y un sitio web público en producción en **Nurent** (Sabaneta, Colombia).
 
-[Portafolio](https://camiloep.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/camiloep) · caespa0818@hotmail.es
+[Portafolio](https://camiloep.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/camiloep)
 
 ## Qué hago hoy
 
